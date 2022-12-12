@@ -1,4 +1,5 @@
 //Adlandırma məqalə
+//string methods
 
 
 
