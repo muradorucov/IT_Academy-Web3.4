@@ -1,21 +1,21 @@
 //string
 
-// let world = "Dunya"
-// console.log(typeof world);
+let world = "Dunya"
+console.log(typeof world);
+//str
 
 
-
-//Number
-// let num = 45;
-// console.log(typeof num);
+Number
+let num = 45;
+console.log(typeof num);
 
 
 //Boolean
 
-// let isPostive = true;
-// let isNegative = false;
-// console.log(typeof isPostive);
-// console.log(typeof isNegative);
+let isPostive = true;
+let isNegative = false;
+console.log(typeof isPostive);
+console.log(typeof isNegative);
 
 
 
@@ -27,7 +27,7 @@
 
 
 // let a = 45;
-// // a = a + 15;
+// a = a + 15;
 // a +=15;
 
 // console.log(a);
@@ -47,7 +47,7 @@
 
 
 // let num = 25;
-// // num = num +1
+// num = num +1
 // num++
 
 // console.log(num);
@@ -55,7 +55,7 @@
 // let num = 25;
 // num = num - 1
 // num--
-// num -=1
+// num -=35
 
 // console.log(num);
 
@@ -69,11 +69,11 @@
 
 // console.log(typeof("Hell" - 87));
 
-// console.log(typeof(65/0));
+// console.log("Infinity Emil", typeof (65/0));
 
 
-// let firstName = "Aqil"
-// let lastName = "Kerimli"
+let firstName = "Aqil"
+let lastName = "Kerimli"
 
 // console.log(firstName);
 // console.log(lastName);
@@ -82,8 +82,7 @@
 // id = prompt()
 // fetch(`google.com/${id}`)
 // console.log("Salam" ,lastName,firstName);
-// word = `Salam ${firstName} ${lastName}`
-
+word = `Salam ${firstName} ${lastName}`
 // console.log(word);
 
 
@@ -104,15 +103,17 @@
 
 
 // let word1  = "Hello Dunyad ddhfrfh fh"
-// let arr = word1.split(" ")
+// let arr = word1.split(" ");
+// arr = ['Hello','Dunyad','ddhfrfh','fh']
 // let newWord = arr.join("")
+// HelloDunyadddhfrfhfh
 // console.log(newWord.length);
 
 
 
-let word1 = "Hello Dunyad ddhfrfh8384 2733  4r4ui? (0&||)./,3435,45,454,5 fh"
-let newWord1 = word1.match(/[a-zA-Z]/g)
+// let word1 = "Hello Dunyad ddhfrfh8384 2733  4r4ui? (0&||)./,3435,45,454,5 fh"
+// let newWord1 = word1.match(/[a-zA-Z]/g)
 
-console.log(word1);
-console.log(newWord1.join(""));
+// console.log(word1);
+// console.log(newWord1.join(""));
 

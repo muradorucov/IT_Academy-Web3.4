@@ -24,8 +24,8 @@
 
 // firstName = "Taleh";
 
-// var lastName = "Orucov";
-// console.log(lastName);
+var lastName = "Orucov";
+console.log(lastName);
 
 // const company = "IT Academy";
 // console.log(company);
@@ -67,10 +67,10 @@
 
 // console.log(number1+ " " + number2);
 
-// number1 = -56;
-// number2 = 45;
-// emil = number1 + number2
-// console.log(c + number1);
-// console.log(number1 - number2);
-// console.log(number1 / number2);
-// console.log(number1 * number2);
+number1 = -56;
+number2 = 45;
+emil = number1 + number2
+console.log(c + number1);
+console.log(number1 - number2);
+console.log(number1 / number2);
+console.log(number1 * number2);
